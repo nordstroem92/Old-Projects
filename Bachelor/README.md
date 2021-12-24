@@ -7,3 +7,5 @@ In this project we set out to explore how shape-changing architecture can make o
 ### Prototype
 Since the materials were expensive only parts of the concept were built.  
 <img width="400" src="https://github.com/nordstroem92/Old-Projects/blob/master/Bachelor/milj%C3%B8billede_2.jpg">
+
+<img width="400" src="https://github.com/nordstroem92/Old-Projects/blob/master/Bachelor/milj%C3%B8billede_3.jpg">
